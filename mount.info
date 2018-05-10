@@ -1,0 +1,5 @@
+/emmc@android /system ext4 (rw,seclabel,relatime,noauto_da_alloc,commit=1,data=ordered)
+/emmc@usrdata /data ext4 (rw,seclabel,nosuid,nodev,noatime,discard,noauto_da_alloc,data=ordered)
+/emmc@cache /cache ext4 (rw,seclabel,nosuid,nodev,noatime,discard,noauto_da_alloc,data=ordered)
+/emmc@protect_f /protect_f ext4 (rw,seclabel,nosuid,nodev,noatime,nodelalloc,noauto_da_alloc,commit=1,data=ordered)
+/emmc@protect_s /protect_s ext4 (rw,seclabel,nosuid,nodev,noatime,nodelalloc,noauto_da_alloc,commit=1,data=ordered)

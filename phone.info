@@ -1,0 +1,9 @@
+Hardware : MT6572
+Model : STARSHINE_5
+Build number : UP40
+Build date UTC : 20170421-023029
+Android  v : 4.4.2
+Baseband v: MOLY.WR8.W1315.MD.WG.MP.V43.P12, 2017/04/20 15:44
+Kernel v : 3.4.67 (liusong@liusong) (gcc version 4.7 (GCC) ) #1 SMP  Fri Apr 21 10:26:33 CST 2017
+Uboot build v : ----- should be  root shell
+LCD Driver IC : 1-st7701_wvga_dsi_vdo
