@@ -8,3 +8,5 @@ Mobiwire  S10 Model Firmware
 * Build date UTC : 20170421-023029
 * Android  v : 4.4.2
 * Baseband v: MOLY.WR8.W1315.MD.WG.MP.V43.P12 
+
+# Stock Rom with root , language OS : PT , FR , ES ,EN , GR
