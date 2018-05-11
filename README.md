@@ -1,5 +1,5 @@
 # Mobiwire_S10
-Mobiwire  S10 Model Firmware
+(Altice) Mobiwire S10 Model Firmware
 <img src="https://pontos.meo.pt/Catalogo%20de%20Produtos%20e%20Servicos/Banco%20Multimedia/Produtos/NOVAS_IMAGENS_LOJA/altice/altice_s10/Altice-S10-detalhe.png" width="50%"></img>
 
 * Hardware : MT6572
@@ -24,3 +24,6 @@ Mobiwire  S10 Model Firmware
 * Display Size : 4 Inch
 * Sim : 1 socket
 * SDcard : 1 socket up to 128Gb
+
+# Notes
+Extract the system Zip image 
